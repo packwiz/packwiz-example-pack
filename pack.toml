@@ -1,12 +1,7 @@
 name = "packwiz Example Pack"
 author = "comp500"
 version = "1.0.0"
-pack-format = "packwiz:1.0.0"
-
-[index]
-file = "index.toml"
-hash-format = "sha256"
-hash = "8d30991d357781975f5779145fa8ea36721d81451237f94551ee4ddcf2005472"
+pack-format = "packwiz:2.0.0-draft1"
 
 [versions]
 fabric = "0.12.12"
