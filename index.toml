@@ -5,11 +5,11 @@ file = "LICENSE"
 hash = "36ffd9dc085d529a7e60e1276d73ae5a030b020313e6c5408593a6ae2af39673"
 
 [[files]]
-file = "mods/borderless-mining.toml"
-hash = "fba556d2450f9fd8955be35630b6d0a58fa06158cb1177cc5337bb8aa25f531a"
+file = "mods/borderless-mining.pw.toml"
+hash = "407fd025c6912135c7d40c238bb96fe05ea8172c403a100ed86f978fc8124c81"
 metafile = true
 
 [[files]]
-file = "mods/screenshot-to-clipboard-fabric.toml"
-hash = "f146b0ae7f2aadaaae86efb8f72cb3e3b2ce310efc4f20095a5757f705228be1"
+file = "mods/screenshot-to-clipboard-fabric.pw.toml"
+hash = "d580e87dd3fbea1d9bd98da604ff9ed7de782565e507a113031f0555763901aa"
 metafile = true
