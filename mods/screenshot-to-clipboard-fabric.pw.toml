@@ -1,4 +1,5 @@
 name = "Screenshot to Clipboard (Fabric)"
+version = "1.0.9 (Fabric/Quilt 1.18+)"
 filename = "screenshot-to-clipboard-1.0.9-fabric.jar"
 side = "both"
 

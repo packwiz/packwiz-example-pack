@@ -1,12 +1,12 @@
 name = "packwiz Example Pack"
 author = "comp500"
 version = "1.0.0"
-pack-format = "packwiz:1.1.0"
+pack-format = "packwiz:1.2.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "29bcf953b90081730cd8a32cc4d855ab6ad96685c3aeea6ed033dc4f04d390ac"
+hash = "38a7dddf7d476b9dfac390049662ab70d8dbfd8d38fb445b4cd5b03b979c9e86"
 
 [versions]
 minecraft = "1.19"
